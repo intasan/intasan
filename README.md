@@ -180,3 +180,10 @@ Interactive browser experiences with 3D models, object interaction and navigatio
 ![Profile Views](https://komarev.com/ghpvc/?username=intasan&style=flat-square&color=58A6FF)
 
 </div>
+
+
+## หลักฐานและสถานะโปรเจกต์
+
+[ผลตรวจและข้อจำกัดราย Repository](https://intasan.github.io/portfolio/verification.html)
+
+บางโปรเจกต์มี source หรือเอกสารบางส่วนเท่านั้น ไม่ได้หมายความว่ารันจริงครบทุกระบบ ผล unit tests แยกจากข้อมูลธุรกิจจริง และไม่มีการรับรองอุปกรณ์/โมเดลที่ยังไม่ได้ทดสอบ
